@@ -72,7 +72,7 @@ Go to **Bucket Policy** → Click **Edit** → Paste the policy below
   ]
 }
 
-Access Your Hosted Website:
+6️⃣ Access Your Hosted Website:
 
 Go to Properties → Static website hosting.
 
