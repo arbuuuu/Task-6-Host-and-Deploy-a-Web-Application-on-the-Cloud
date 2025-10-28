@@ -72,12 +72,16 @@ Go to **Bucket Policy** → Click **Edit** → Paste the policy below
   ]
 }
 
-6️⃣ Access Your Hosted Website:
+6️⃣ Access Your Hosted Website
 
 Go to Properties → Static website hosting.
 
-Copy the Website endpoint URL (e.g.):  http://my-aws-cloud-app.s3-website-us-east-1.amazonaws.com
+Copy the Website endpoint URL (e.g.):
+
+http://my-aws-cloud-app.s3-website-us-east-1.amazonaws.com
+
+
 Open it in your browser → you’ll see:
+
 Hello Cloud!
 This is my first web app hosted on AWS S3.
-
